@@ -1,0 +1,27 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "Este es el primer ejercicio en el curso de JavaScript de Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelo-Crisostomo/ejercicio.git"
+  },
+  "keywords": [
+    "javascrip",
+    "openbootcamp",
+    "code",
+    "git",
+    "github"
+  ],
+  "author": "Marcelo Crisostomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelo-Crisostomo/ejercicio/issues"
+  },
+  "homepage": "https://github.com/Marcelo-Crisostomo/ejercicio#readme"
+}
